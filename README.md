@@ -1,1 +1,1 @@
-[![James's GitHub stats](https://github-readme-stats-ochre-phi-31.vercel.app/api?username=jamesxu0220&hide=stars,issues&show=prs_merged_percentage,reviews&show_icons=true&theme=shadow_green&hide_border=true&hide_rank=true&number_format=long)](https://github.com/jamesxu0220)
+[![James's GitHub stats](https://github-readme-stats-ochre-phi-31.vercel.app/api?username=jamesxu0220&hide=stars,issues&show=prs_merged_percentage,reviews&show_icons=true&theme=shadow_green&hide_rank=true&border_color=007a00&number_format=long)](https://github.com/jamesxu0220)
